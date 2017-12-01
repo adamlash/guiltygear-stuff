@@ -1,4 +1,4 @@
-#Leo Overview#
+# Leo Overview #
 
 ##  Supporting Documents ##
 - https://docs.google.com/document/d/1HWIiXwO5NecZorfvUY1hjDD3fLMjNUNVDWWVbYbQaOI/edit#heading=h.ewnw44vels2m
@@ -17,21 +17,21 @@ Startup: 15f | Active: 6f | Recovery: 17f
 Frame adv.: -3 | IB adv: -7 | Level: 4
 Guard: Mid | Tension: 384 | RISC: -6 / +20 | Prorate: - | Invul: - | Damage: 42 | Notes: Vacumms, Inputting H(or holding) on 24~26F causes transition to Brynhildr stance, transition starts from frame 27, Stance transition is 11F long(last 1F can be canceled into any action other than walk), Can go into 5H~P from 25F
 ```
-Looks Like:
+**Looks Like:**
 - Leo spreads his wings wide, YMCA style
 
-Leo's Use Case:
+**Leo's Use Case:**
 - In his combos leading into his rekkas (eg, 5K>CS>FS>6H>Rekkas)
 
-Punishes:
+**Punishes:**
 - 2P will fit as its a -3, with out without IB
 
-Extra Notes:
+**Extra Notes:**
 - he can go into backturn if he holds the button. If he does that you can 2P, 2K or 2D (depending on spacing)
 
 
 ## special moves and rekkas to worry about ##
-###Flash Kick###
+### Flash Kick ###
 
 ```
 Char: Leo | Move: Eisen Sturm (S) ([2]8S)
@@ -47,18 +47,18 @@ Frame adv.: -54 | IB adv: -58 | Level: 2,3,4
 Guard: Mid | Tension: 300 / 600x2, 240 | RISC: -7,-6,-6 / +10,+14,+20 | Prorate: 85 | Invul: 1~14 Full, 10~Airborne | Damage: 43,30,28 | Notes: () indicates gap
 ```
 
-Looks Like:
+**Looks Like:**
 - Big Ass flash kick
 
-Punishes:
+**Punishes:**
 - If blocked, big 6H
 - Usual 2H loops work as well.
 
-Extra Notes:
+**Extra Notes:**
 - Apparently Ball YRC is wonky on this move.
 
 
-###Rekkas###
+### Rekkas ###
 
 **Rekkas Overview:**
 - There are 3 Rekkas: Erst, Zweit, Dritt
@@ -90,6 +90,7 @@ Guard: Mid | Tension: 250 / 720 | RISC: -6 / +20 | Prorate: Forced 70 | Invul: -
 ```
 
 **Looks Like:**
+
 *Erst*
 - Running charge slashing scissor movement
 
@@ -102,6 +103,7 @@ Guard: Mid | Tension: 250 / 720 | RISC: -6 / +20 | Prorate: Forced 70 | Invul: -
 
 
 **Punishes:**
+
 *Erst*
 - not really punishable
 
@@ -127,14 +129,14 @@ Frame adv.: -13 | IB adv: -17 | Level: 2,4,4
 Guard: Mid / Air | Tension: 250 / 480x3 | RISC: -7,-6,-6 / +10,+20,+20 | Prorate: - | Invul: - | Damage: 16,24,10 | Notes: Only mortal counters from second hit, Unburstable until the end, On successful hit advantage is +3
 ```
 
-Looks Like:
+**Looks Like:**
 - Air to Ground move, slams down with his two blades into the ground
 
 
-Punishes:
+**Punishes:**
 - -13 so go wild.
 
-Extra Notes:
+**Extra Notes:**
 -
 
 *Blitzschlag*
@@ -146,21 +148,21 @@ Frame adv.: - | IB adv: - | Level: 4
 Guard: Unblockable | Tension: 350 / 720 | RISC: -6 / +20 | Prorate: Forced 60 | Invul: - | Damage: 60 | Notes: Stagger Frame Adv: +3 to +36; Anti-Air Hit causes Ground Bounce; Exits stance
 ```
 
-Looks Like:
+**Looks Like:**
 - Big ass overhead boot
 
-Punishes:
+**Punishes:**
 - Beat him on his startup this is unblockable as hell, throw a dolphin, 2p or something it
 - It has quite the range so jump it if he does it far, jumping is also fine in general sinec its 29f of recovery
 
-Extra Notes:
+**Extra Notes:**
 - Unblockable
 - When he uses it, whiff or otherwise it brings him back to normal stance.
 
 
 
-###normals to be careful of###
-*ground*
+### normals to be careful of ###
+### ground ###
 
 *5K*
 
@@ -170,13 +172,13 @@ Startup: 8f | Active: 5f | Recovery: 6f
 Frame adv.: 1 | IB adv: -2 | Level: 1
 Guard: Mid | Tension: 264 | RISC: -7 / +6 | Prorate: - | Invul: 8-12F Foot Invincible | Damage: 16 | Notes: -
 ```
-Looks Like:
+**Looks Like:**
 - knee pushing forwards, kind of like guiles bazooka knee
 
-When is it used?
+**When is it used?**
 - When up close, starts blockstrings.
 
-What to do:
+**What to do:**
 - Hold it dont press pls
 
 
@@ -189,13 +191,13 @@ Frame adv.: 4 | IB adv: 1 | Level: 2
 Guard: Low | Tension: 264 | RISC: -7 / +10 | Prorate: - | Invul: 5~9 Above Knee | Damage: 26 | Notes: -
 ```
 
-Looks Like:
+**Looks Like:**
 - Leo slashing the ground, cuttin the grass
 
-When is it used:
+**When is it used:**
 - Combo Starter, also used to frametrap
 
-What to do:
+**What to do:**
 - Hold it dont press pls
 
 *6h*
@@ -207,17 +209,17 @@ Frame adv.: 5 | IB adv: 1 | Level: 4
 Guard: Mid | Tension: 384 | RISC: -6 / +20 | Prorate: - | Invul: 16~25 Feet | Damage: 50 | Notes: -3 when entering Stance; Inputting H(or holding) on 30~32F causes transition to Brynhildr stance, transition starts from frame 33, Stance transition is 14F long(last 1F can be canceled into any action other than walk)
 ```
 
-Looks Like:
+**Looks Like:**
 - Leo does a twirl and comes down
 
-When is it used:
+**When is it used:**
 - gatlings from 5h, 6p and fs so probably after one of those, tends to go from 6H into his rekkas.
 - He can also use 6H > 5K > 6H as a mixup to keep himself in and push himself forward.
 
-What to do:
+**What to do:**
 - Hold That, wait for the rekkas.
 
-Other Notes:
+**Other Notes:**
 - Not an overhead...
 
 
@@ -227,7 +229,7 @@ Other Notes:
 - 6H is ACTUALLY AN OVERHEAD HERE
 
 
-*air*
+### air ###
 
 *j.K*
 
@@ -238,10 +240,10 @@ Frame adv.: - | IB adv: - | Level: 2
 Guard: High / Air | Tension: 264 | RISC: -9 / +10 | Prorate: - | Invul: - | Damage: 34 | Notes: -
 ```
 
-Looks Like:
+**Looks Like:**
 - Leg Drop from the sky
 
-When is it used:
+**When is it used:**
 - Jumpins
 - Afterwards comes j.H normally
   - that looks like Leo is Superman
@@ -249,9 +251,9 @@ When is it used:
 
 *j.S and j.H*
 
-Looks Like:
+**Looks Like:**
 - J.S looks like an uppercut
 - J.H looks like superman
 
-When are they used:
+**When are they used:**
 - Air to Airs, should be beatable though.
