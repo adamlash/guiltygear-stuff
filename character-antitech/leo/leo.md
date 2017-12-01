@@ -110,7 +110,7 @@ Guard: Mid | Tension: 250 / 720 | RISC: -6 / +20 | Prorate: Forced 70 | Invul: -
 *Zweit*
 - Throwable when he runs through with an IB
 - 2p-able as well with or without IB
-- if its *NEUTRAL ZWEIT* you can throw it but after throwing you gotta hold it, no 2p.
+- if its *NEUTRAL ZWEIT* you can throw it but if you miss the throw attempt you gotta hold it, no 2p.
 
 *Dritt*
 - -7 so pretty unsafe
