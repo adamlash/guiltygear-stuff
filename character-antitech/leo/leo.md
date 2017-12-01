@@ -1,15 +1,15 @@
-**Leo Overview**
+#Leo Overview#
 
-**Supporting Documents**
+##  Supporting Documents ##
 - https://docs.google.com/document/d/1HWIiXwO5NecZorfvUY1hjDD3fLMjNUNVDWWVbYbQaOI/edit#heading=h.ewnw44vels2m
   - The May Matchup Compendium
 - https://www.evernote.com/shard/s733/sh/7e53ba64-cbdd-4ace-b24d-b3d1f67b8093/d3cc40d32ace0fcd8f70d79d767d4c51
   - Ruu Leo Compendium
 
-**Training Mode Findings**
+##  Training Mode Findings ##
 
-**Normals to punish**
-*5H*
+## Normals to punish ##
+### 5H ###
 
 ```
 Char: Leo | Move: 5H
@@ -30,8 +30,8 @@ Extra Notes:
 - he can go into backturn if he holds the button. If he does that you can 2P, 2K or 2D (depending on spacing)
 
 
-**special moves and rekkas to worry about**
-*Flash Kick*
+## special moves and rekkas to worry about ##
+###Flash Kick###
 
 ```
 Char: Leo | Move: Eisen Sturm (S) ([2]8S)
@@ -58,9 +58,9 @@ Extra Notes:
 - Apparently Ball YRC is wonky on this move.
 
 
-*Rekkas Chapters*
+###Rekkas###
 
-Rekkas Overview:
+**Rekkas Overview:**
 - There are 3 Rekkas: Erst, Zweit, Dritt
   - *Erst* is the *first*.
   - Then he can use *Zweit*, either he can link if he lands Erst or use in neutral. and from there he will go into *backturn stance* to
@@ -89,7 +89,7 @@ Frame adv.: -7 | IB adv: -11 | Level: 4
 Guard: Mid | Tension: 250 / 720 | RISC: -6 / +20 | Prorate: Forced 70 | Invul: - | Damage: 60 | Notes: Exits stance
 ```
 
-Looks Like:
+**Looks Like:**
 *Erst*
 - Running charge slashing scissor movement
 
@@ -101,7 +101,7 @@ Looks Like:
 - does a 360 slash and turns faceward again
 
 
-Punishes:
+**Punishes:**
 *Erst*
 - not really punishable
 
@@ -114,7 +114,7 @@ Punishes:
 - -7 so pretty unsafe
 - can be spaced so punish with your relative spacing button, 2P, 2K and 2D will work (2D is close)
 
-Extra Notes:
+**Extra Notes:**
 - Keep in mind differences between Neutral and Rekka Zweit
 - IBing Zweit is where its at.
 
@@ -159,7 +159,7 @@ Extra Notes:
 
 
 
-**normals to be careful of**
+###normals to be careful of###
 *ground*
 
 *5K*
