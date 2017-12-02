@@ -10,7 +10,7 @@
 
 ## Normals to punish ##
 ### 5H ###
-
+![5H](http://www.dustloop.com/wiki/images/5/53/GGXRD_Leo_5H.png)
 ```
 Char: Leo | Move: 5H
 Startup: 15f | Active: 6f | Recovery: 17f
