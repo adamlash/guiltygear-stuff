@@ -224,7 +224,7 @@ Guard: Mid | Tension: 384 | RISC: -6 / +20 | Prorate: - | Invul: 16~25 Feet | Da
 
 
 *Backturn Stance*
-- fucking everything. be careful
+- everything. be careful
 - extra credit to 5K that piece of shit
 - 6H is ACTUALLY AN OVERHEAD HERE
 
