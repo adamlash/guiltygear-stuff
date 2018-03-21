@@ -14,4 +14,5 @@
 ## Grounded Neutral Things ##
 - Ball Grounded Neutal Examples
   - https://youtu.be/lqkLFDxUdO8?t=19641
-  -
+- OHK neutral
+  - 6H into S HD into OHK spacing https://youtu.be/qO09mSlBKWw?t=965
